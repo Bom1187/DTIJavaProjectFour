@@ -1,4 +1,7 @@
 package net.dti.aa;
 
-public class TestC {
+import io.sau.bb.TestD;
+
+class TestC {
+    TestD data3;
 }
